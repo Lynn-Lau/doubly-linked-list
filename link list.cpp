@@ -1,8 +1,10 @@
 /*
   Creat a dynamic link table,which has some functions
   Creating,Printing,Deleting,Inserting nodes.
-  Author: Lynn-Lau
+  Author: Lynn-Lau Liu Silin
+  Student Number: S150101093
   Language: C
+  All Rights Reserved
 */
 
 # include<stdio.h>
